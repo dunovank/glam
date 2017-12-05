@@ -2,7 +2,7 @@
 
 This repository contains data and python code to reproduce all analyses performed in the manuscript:
 
-**Gaze Bias Differences Capture Individual Choice Behavior**  [(preprint on bioRxiv)](https://www.biorxiv.org/content/early/2017/12/04/228825)
+**Gaze Bias Differences Capture Individual Choice Behavior**  [(preprint on bioRxiv)](https://www.biorxiv.org/content/early/2017/12/04/228825)  
 *Thomas, A. W.**<sup>&ast;</sup>** & Molter, F.**<sup>&ast;</sup>**, Krajbich, I., Heekeren, H. R. H., Mohr, P. N. C.*  
 
 **<sup>&ast;</sup>** shared first authorship with equal contribution
